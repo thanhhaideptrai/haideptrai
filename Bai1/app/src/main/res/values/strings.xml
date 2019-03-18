@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bai1</string>
+    <string name="hoten">Tên phải trên 3 ký tự</string>
+    <string name="cmnd">Nhập đúng 9 chữ số</string>
+    <string name="thongtinbosung">Nhập thông tin bổ sung - Có thể bỏ trống</string>
+    <string name="gui">Gửi thông tin</string>
+</resources>
